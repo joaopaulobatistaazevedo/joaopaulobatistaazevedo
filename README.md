@@ -3,8 +3,7 @@
 ---
 
 - 🎓 Computer Engineering student, always learning and building new things.
-- 💬 Ask me about Web Development, or anything from my tech stack below.
-- 🌱 Currently deepening my knowledge in modern web technologies and software engineering.
+- 💬 Currently deepening my knowledge in modern web technologies and software engineering.
 
 ---
 
