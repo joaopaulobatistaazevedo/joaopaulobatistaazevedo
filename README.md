@@ -20,7 +20,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![UML](https://img.shields.io/badge/UML-%23FF6F00.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
 #### 🖥️ Frameworks
 
@@ -34,6 +33,7 @@
 
 #### 📐 Modeling
 
+![UML](https://img.shields.io/badge/UML-%23FF6F00.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-%23197ABD.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
 #### 📊 Data & Analytics
@@ -46,7 +46,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
