@@ -2,7 +2,7 @@
 
 ---
 
-- 🎓 Computer Engineering student, always learning and building new things.
+- 🎓 Computer Engineer, always learning and building new things.
 - 💬 Currently deepening my knowledge in modern web technologies and software engineering.
 
 ---
